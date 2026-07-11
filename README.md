@@ -5,7 +5,7 @@
 
 <h1 align="center">CPE-031-CPE21S1 - Visualizations and Data Analysis - Ignacio</h1>
 
-<p alignn="center"> A repository for Visualizations and Data Analysis </p>
+<p align="center"> A repository for Visualizations and Data Analysis </p>
 
 <br>
 
