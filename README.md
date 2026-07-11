@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/Image.jpg" alt="Project Image" width="600">
+  <img src="images/Image.jpg" alt="Project Image" width="800">
 </p>
 
 <h1 align="center">CPE-031-CPE21S1 - Visualizations and Data Analysis - Ignacio</h1>
