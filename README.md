@@ -34,9 +34,12 @@
 <p><strong> Instagram </strong></p>
   <br>
 </p>
-<a href="https://github.com/Guilliancpe">
-    GitHub
-</a>
+<p>
+  <a href="https://github.com/Guilliancpe">
+    <img src="https://cdn.simpleicons.org/github" width="35" alt="GitHub">
+  </a>
+  <a href="https://github.com/Guilliancpe">Guilliancpe</a>
+</p>
  <br>
  
 <p>----------------------------------------------------------------------------------------------------------------------------------</p>
