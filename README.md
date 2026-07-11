@@ -5,7 +5,7 @@
 
 <h1 align="center">CPE-031-CPE21S1 - Visualizations and Data Analysis - Ignacio</h1>
 
-<p align="center"> A repository for outputs in Visualizations and Data Analysis </p>
+<p align="center"> A repository for outputs in Visualizations and Data Analysis. This course is about transforming data into meaningful visual insights that help people understand, communicate, and make informed decisions. </p>
 <p>----------------------------------------------------------------------------------------------------------------------------------</p>
 <br>
 <strong> ABOUT ME: </strong>
