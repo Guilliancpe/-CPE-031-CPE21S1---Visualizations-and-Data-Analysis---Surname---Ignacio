@@ -8,7 +8,6 @@
 <p align="center"> A repository for Visualizations and Data Analysis </p>
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <br>
-
 <strong> ABOUT ME: </strong>
 <p>Name: Guillian Carlo V. Ignacio</p>
 <p>Section: CPE12S1</p>
