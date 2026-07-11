@@ -1,5 +1,5 @@
 
-![Project Image](Image20%.jpg)
+![Project Image](images/Image.jpg)
 
 # CPE-031-CPE21S1 - Visualizations and Data Analysis - Ignacio
 
