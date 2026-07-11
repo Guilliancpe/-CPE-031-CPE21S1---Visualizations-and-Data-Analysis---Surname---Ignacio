@@ -10,8 +10,8 @@
 <br>
 <strong> ABOUT ME: </strong>
 <p><strong>Name:</strong> Guillian Carlo V. Ignacio</p>
-<p>Section: CPE12S1</p>
-<p>Course: BSCPE</p>
+<p><strong>Section:</strong> CPE12S1</p>
+<p><strong>Course:</strong> BSCPE</p>
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <br>
 
