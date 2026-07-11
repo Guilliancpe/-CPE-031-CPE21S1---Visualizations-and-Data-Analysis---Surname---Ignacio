@@ -38,6 +38,7 @@
   <a href="https://github.com/Guilliancpe">
     <img src="https://cdn.simpleicons.org/github" width="35" alt="GitHub">
   </a>
+  <br>
   <a href="https://github.com/Guilliancpe">Guilliancpe</a>
 </p>
  <br>
