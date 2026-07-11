@@ -13,7 +13,7 @@
 <p>Name: Guillian Carlo V. Ignacio</p>
 <p>Section: CPE12S1</p>
 <p>Course: BSCPE</p>
-
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +22,8 @@
   <br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <p><strong>Python </strong></p>
-
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
