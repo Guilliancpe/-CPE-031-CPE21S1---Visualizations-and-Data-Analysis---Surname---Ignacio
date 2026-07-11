@@ -1,5 +1,6 @@
+
 <p align="center">
-![Project Image](images/Image.jpg)
+  <img src="images/Image.jpg" alt="Project Image" width="600">
 </p>
 
 <h1 align="center">CPE-031-CPE21S1 - Visualizations and Data Analysis - Ignacio</h1>
