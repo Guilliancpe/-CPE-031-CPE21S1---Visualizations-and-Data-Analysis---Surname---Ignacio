@@ -27,5 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/guillian carlo ignacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guillian carlo ignacio" height="30" width="40" /></a>
+  <p><strong> Facebook </strong></p>
+  <br>
 <a href="https://instagram.com/gilyan_fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gilyan_fr" height="30" width="40" /></a>
+<p><strong> Instagram </strong></p>
+  <br>
 </p>
