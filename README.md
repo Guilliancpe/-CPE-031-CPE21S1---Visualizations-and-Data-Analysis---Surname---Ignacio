@@ -33,3 +33,8 @@
 <p><strong> Instagram </strong></p>
   <br>
 </p>
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<br>
+
+<h1 align="center">"Without data, you're just another person with an opinion."</h1>
+<p align="center">  — W. Edwards Deming </p>
