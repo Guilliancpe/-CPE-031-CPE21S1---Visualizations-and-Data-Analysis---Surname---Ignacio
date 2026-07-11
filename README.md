@@ -1,3 +1,6 @@
+
+![Project Image](Image V.jpg)
+
 # CPE-031-CPE21S1 - Visualizations and Data Analysis - Ignacio
 
 
