@@ -5,4 +5,4 @@
 
 A repository for Visualizations and Data Analysis
 
-# ABOUT ME:
+<strong> ABOUT ME: </strong>
