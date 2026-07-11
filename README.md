@@ -9,6 +9,5 @@ A repository for Visualizations and Data Analysis
 
 <strong> ABOUT ME: </strong>
 <p>Name: Guillian Carlo V. Ignacio</p>
-
-Section: CPE12S1
-Course: BSCPE
+<p>Section: CPE12S1</p>
+<p>Course: BSCPE</p>
