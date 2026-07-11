@@ -12,6 +12,7 @@
 <p><strong>Name:</strong> Guillian Carlo V. Ignacio</p>
 <p><strong>Section:</strong> CPE12S1</p>
 <p><strong>Course:</strong> BSCPE</p>
+<p><strong>Email:</strong> qgcignacio@tip.edu.ph</p>
 <p>----------------------------------------------------------------------------------------------------------------------------------</p>
 <br>
 
