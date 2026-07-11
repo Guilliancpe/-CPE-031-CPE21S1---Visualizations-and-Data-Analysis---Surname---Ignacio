@@ -5,7 +5,9 @@
 
 <h1 align="center">CPE-031-CPE21S1 - Visualizations and Data Analysis - Ignacio</h1>
 
-A repository for Visualizations and Data Analysis
+<p alignn="center"> A repository for Visualizations and Data Analysis </p>
+
+<br>
 
 <strong> ABOUT ME: </strong>
 <p>Name: Guillian Carlo V. Ignacio</p>
